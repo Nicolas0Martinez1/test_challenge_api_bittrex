@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Challenge api bittrex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas0Martinez1/app_test_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas0Martinez1/app_test_challenge/issues"
+  },
+  "homepage": "https://github.com/Nicolas0Martinez1/app_test_challenge#readme",
+  "dependencies": {
+    "bittrex-v3-node": "^2.0.0-beta.0",
+    "express": "^4.18.1"
+  }
+}
