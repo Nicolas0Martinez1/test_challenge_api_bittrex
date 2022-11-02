@@ -2,7 +2,7 @@
 
 git init
 
-git remote add origin <URL GITHUB>
+git remote add origin (URL GITHUB)
 
 npm init
 
